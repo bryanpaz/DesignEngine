@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26269" started-at="2017-10-05T17:52:53Z" finished-at="2017-10-05T17:53:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26269" started-at="2017-10-05T17:52:53Z" finished-at="2017-10-05T17:53:20Z">
+      <class name="TestDashboard.Nueva_Promocion">
+        <test-method status="PASS" signature="OpenBrowser()[pri:1, instance:TestDashboard.Nueva_Promocion@6500df86]" name="OpenBrowser" duration-ms="3792" started-at="2017-10-05T11:52:53Z" description="Abrir el navegador" finished-at="2017-10-05T11:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Test_SignUp()[pri:2, instance:TestDashboard.Nueva_Promocion@6500df86]" name="Test_SignUp" duration-ms="13094" started-at="2017-10-05T11:52:57Z" description="Registrar a un usuario ya registrado" finished-at="2017-10-05T11:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SignUp -->
+        <test-method status="PASS" signature="Login_Test()[pri:3, instance:TestDashboard.Nueva_Promocion@6500df86]" name="Login_Test" duration-ms="1105" started-at="2017-10-05T11:53:10Z" description="Test Login de usuario" finished-at="2017-10-05T11:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Test -->
+        <test-method status="PASS" signature="f()[pri:4, instance:TestDashboard.Nueva_Promocion@6500df86]" name="f" duration-ms="1868" started-at="2017-10-05T11:53:11Z" description="Entrar en Empresa selecciondad" finished-at="2017-10-05T11:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="Test_Promocion()[pri:5, instance:TestDashboard.Nueva_Promocion@6500df86]" name="Test_Promocion" duration-ms="6385" started-at="2017-10-05T11:53:13Z" description="Test de Nueva Promoción" finished-at="2017-10-05T11:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Promocion -->
+      </class> <!-- TestDashboard.Nueva_Promocion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
